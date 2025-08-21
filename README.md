@@ -25,7 +25,7 @@ Um jogo da forca em Java onde o jogador tenta adivinhar uma palavra secreta, let
    ```
 4. **Execute**
    ```bash
-   java -jar .\build\libs\JogoDaForca-1.0-SNAPSHOT-all.jar
+   java -jar .\build\libs\JogoDaForca-1.0-SNAPSHOT-all.jar a m e i x a
    ```
 
 ---
